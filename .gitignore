@@ -1,0 +1,6 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.arena/
+test-results/
+playwright-report/
